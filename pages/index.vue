@@ -7,6 +7,8 @@
     </header>
 
     <main class="main-content">
+      <h2 class="header-title">SpinEmpire Casino</h2>
+      
       <div class="buttons-top">
         <button class="btn btn-secondary">LogIn</button>
         <button class="btn btn-primary">Sign Up</button>
@@ -321,11 +323,14 @@
         <p>However, certain limitations should be considered, including wagering requirements and minimum transaction amounts, which may not suit all players. Evaluating both the strengths and drawbacks can help determine whether SpinEmpire Casino aligns with individual preferences and playing styles.</p>
       </div>
     </main>
+
+    <Footer />
   </div>
 </template>
 
 <script setup lang="ts">
 import InfoRow from '~/components/InfoRow.vue'
+import Footer from '~/components/Footer.vue'
 
 useSeoMeta({
   title: 'SpinEmpire Casino Review 2026 – Bonuses & Withdrawals',
@@ -377,12 +382,17 @@ useSeoMeta({
 
 .main-content {
   max-width: 900px;
-  margin: 0 auto;
   background-color: #ffffff;
   padding: 40px;
   box-sizing: border-box;
   width: 100%;
   overflow-x: hidden;
+  margin: 60px auto;
+}
+
+.main-content .header-title {
+  text-align: center;
+  font-size: 32px;
 }
 
 .main-title {
@@ -502,11 +512,16 @@ useSeoMeta({
   }
 
   .main-content {
-    padding: 20px;
+    padding: 15px;
     box-sizing: border-box;
-    width: 100%;
-    max-width: 100%;
+    width: calc(100% - 30px);
+    max-width: calc(100% - 30px);
     overflow-x: hidden;
+    margin: 15px;
+  }
+
+  .main-content .header-title {
+    font-size: 24px;
   }
 
   .main-title {
