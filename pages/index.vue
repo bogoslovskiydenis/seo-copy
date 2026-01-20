@@ -10,8 +10,18 @@
       <h2 class="header-title">SpinEmpire Casino</h2>
       
       <div class="buttons-top">
-        <button class="btn btn-secondary">LogIn</button>
-        <button class="btn btn-primary">Sign Up</button>
+        <a
+          class="btn btn-secondary"
+          href="https://spinempire.sbs/d4ycyibnj"
+          target="_blank"
+          rel="noopener noreferrer"
+        >LogIn</a>
+        <a
+          class="btn btn-primary"
+          href="https://spinempire.sbs/dhhvdwpye"
+          target="_blank"
+          rel="noopener noreferrer"
+        >Sign Up</a>
       </div>
 
       <h3 class="section-title">Feature / SpinEmpire Details</h3>
@@ -31,8 +41,18 @@
       </table>
 
       <div class="buttons-bottom">
-        <button class="btn btn-secondary">LogIn</button>
-        <button class="btn btn-primary">Sign Up</button>
+        <a
+          class="btn btn-secondary"
+          href="https://spinempire.sbs/d4ycyibnj"
+          target="_blank"
+          rel="noopener noreferrer"
+        >LogIn</a>
+        <a
+          class="btn btn-primary"
+          href="https://spinempire.sbs/dhhvdwpye"
+          target="_blank"
+          rel="noopener noreferrer"
+        >Sign Up</a>
       </div>
 
       <div class="content-section">

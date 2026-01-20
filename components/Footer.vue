@@ -7,13 +7,28 @@
         </div>
 
         <div class="footer-social">
-          <a href="#" class="social-link">
+          <a
+            href="https://t.me/spinempire_global"
+            class="social-link"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img :src="telegramImg" alt="Telegram" />
           </a>
-          <a href="#" class="social-link">
+          <a
+            href="https://www.instagram.com/p/DQCR_QlCIKy/"
+            class="social-link"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img :src="instagramImg" alt="Instagram" />
           </a>
-          <a href="#" class="social-link">
+          <a
+            href="https://www.facebook.com/spinempire.global"
+            class="social-link"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img :src="facebookImg" alt="Facebook" />
           </a>
         </div>
