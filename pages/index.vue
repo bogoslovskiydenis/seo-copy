@@ -442,6 +442,8 @@ useSeoMeta({
   text-transform: uppercase;
   transition: opacity 0.2s;
   width: 100%;
+  text-align: center;
+  text-decoration: none;
 }
 
 .btn:hover {
